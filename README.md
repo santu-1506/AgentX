@@ -2,7 +2,7 @@
 
 > **Build your own AI agent in minutes.** AgentX is a production-ready, open-source starter template for creating intelligent, memory-powered AI chatbots. Customize the personality, memory, and behavior — all from a single config file.
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/Eldorado5002/aiagent)
+[![Deploy with Vercel](https://vercel.com/button)](https://github.com/santu-1506/AgentX.git)
 
 ---
 
