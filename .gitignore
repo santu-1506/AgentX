@@ -6,7 +6,6 @@
 /out/
 
 # env files
-.env
 .env*.local
 
 # misc
